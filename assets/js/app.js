@@ -172,3 +172,5 @@ function init() {
 }
 
 init();
+
+console.log("Adding a new low to check the commit from sandbox to Git");
